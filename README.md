@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **nuevas tecnologías de desarrollo web**  
 - 📫 Contáctame en: **Yossedriano@usantotomas.edu.co**  
-- ⚡ Frase de ingeniería: *"La ingeniería es el arte de convertir ideas en realidades funcionales."*
+- ⚡ *"La ingeniería es el arte de convertir ideas en realidades funcionales."*
 
      ![601f40b070c9a7bd1b8d24566b31ba13](https://github.com/user-attachments/assets/6cb692d6-b870-40ad-80c8-426fd0846766)
 
